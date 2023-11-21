@@ -6,7 +6,7 @@ import './Footer.css';
 function Footer() {
   return (
     <>
-    <div style={{ width: '100%', height: '600px',backgroundColor:' #2c4152',color:'white' }} className='d-flex mt-5 align-items-center flex-column '>
+    <div style={{ width: '100%', height: '500px',backgroundColor:' #2c4152',color:'white' }} className='d-flex mt-5 align-items-center flex-column '>
         <div className="footer mt-5  w-100">
         
         <div class="row mt-5 ms-5" >
