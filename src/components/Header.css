@@ -1,0 +1,16 @@
+.search {
+    position: "relative";
+    display: inline-block;
+}
+
+.search i {
+    position: absolute;
+    right: 220px;
+    top: 65px;
+}
+.nav-link:hover{
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+}
+

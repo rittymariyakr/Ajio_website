@@ -1,0 +1,6 @@
+.footer-link:hover{
+    text-decoration: underline;
+}
+.footer-link{
+    font-size: small;
+}
