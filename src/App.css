@@ -1,7 +1,12 @@
 *{
   font-family: Muli;
-  
 }
-::-webkit-scrollbar { /* to remove scrollbar */
+
+::-webkit-scrollbar { 
   display: none;
 }
+
+
+
+
+
